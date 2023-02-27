@@ -9,13 +9,21 @@ body {color:green;
       }
 h1{
 	color:blue;
-	text-align : center;
+	text-align : left;
 	font-size: 18pt;
   }
 
  h2 {
        color:green;
-	  text-align : center;
+	  text-align : left;
 	  font-size: 16pt;
 	  font-family:Verdana;
      }
+
+    p{}
+
+    nav{}
+
+    hr{}
+
+    
